@@ -24,7 +24,7 @@ public class App {
                 nome, tempo, memoriaUsada / 1024);
     }
 public static void main(String[] args) {
-        int n = 100000;
+        int n = 1000000;
         Random random = new Random();
 
         // ---------- Gerarando dados ----------
